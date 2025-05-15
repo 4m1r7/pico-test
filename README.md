@@ -4,9 +4,9 @@ This repo contains a coding test for Pico MES.
 ## Getting Started
 
 1. Clone the repository
-2. install packages using:
+2. Install packages using:
 `yarn install`
-3. the development server using:
+3. Start the development server using:
 `yarn dev`
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the page.
 
