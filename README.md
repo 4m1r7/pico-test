@@ -7,7 +7,7 @@ This repo contains a coding test for Pico MES.
 2. install packages using:
 `yarn install`
 3. the development server using:
-`yarn install`
+`yarn dev`
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the page.
 
 
